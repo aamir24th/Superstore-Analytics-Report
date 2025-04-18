@@ -33,6 +33,6 @@ This Power BI project provides a comprehensive analysis of sales and profit data
 - [⬇️ Download PBIX](https://github.com/aamir24th/Superstore-Analytics-Report/blob/main/Superstore%20Analytics%20Dashboard.pbix) – Power BI project file
 
 ## 📷 Screenshots 
-![image](https://github.com/user-attachments/assets/73e8cb00-f52e-47c4-a230-254fc14690fc)
+![image](https://github.com/user-attachments/assets/962a3bfc-fddb-43f1-9305-4c63d547e81c)
 
 
