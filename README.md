@@ -30,8 +30,7 @@ This Power BI project provides a comprehensive analysis of sales and profit data
 - Segment-based analysis revealed high-value customer groups  
 
 ## 📁 File Included
-- [⬇️ Download PBIX](http://github.com/aamir24th/Pizza-Sales-Report/blob/main/Pizza%20Sales%20Report.pbix) – Power BI project file
-  
+- [⬇️ Download PBIX](https://github.com/aamir24th/Superstore-Analytics-Report/blob/main/Superstore%20Analytics%20Dashboard.pbix) – Power BI project file
 
 ## 📷 Screenshots 
 ![image](https://github.com/user-attachments/assets/73e8cb00-f52e-47c4-a230-254fc14690fc)
