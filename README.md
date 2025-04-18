@@ -1,4 +1,4 @@
-# 🍕 Superstore Analytics Report – Power BI Dashboard
+# 📊 Superstore Analytics Report – Power BI Dashboard
 
 This Power BI project provides a comprehensive analysis of sales and profit data from a fictional superstore. The objective was to gain actionable business insights and help guide strategic decision-making.
 
